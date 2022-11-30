@@ -1,0 +1,9 @@
+build/*
+config/*
+dist/*
+*.js
+test/unit/coverage/*
+src/icons/iconfont.js
+src/assets/icons/iconfont.js
+*.vue
+src/assets/iconfont/*

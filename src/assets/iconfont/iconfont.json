@@ -1,0 +1,177 @@
+{
+  "id": "2754511",
+  "name": "train",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "23357045",
+      "name": "发布",
+      "font_class": "fabu1",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "9213052",
+      "name": "二维码",
+      "font_class": "erweima1",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    },
+    {
+      "icon_id": "4767934",
+      "name": "发布",
+      "font_class": "fabu",
+      "unicode": "e667",
+      "unicode_decimal": 58983
+    },
+    {
+      "icon_id": "20384564",
+      "name": "二维码",
+      "font_class": "erweima",
+      "unicode": "ecbb",
+      "unicode_decimal": 60603
+    },
+    {
+      "icon_id": "7990275",
+      "name": "翻译",
+      "font_class": "fanyi",
+      "unicode": "e769",
+      "unicode_decimal": 59241
+    },
+    {
+      "icon_id": "20205998",
+      "name": "已阅",
+      "font_class": "yiyue",
+      "unicode": "e71b",
+      "unicode_decimal": 59163
+    },
+    {
+      "icon_id": "12689505",
+      "name": "试卷",
+      "font_class": "shijuan",
+      "unicode": "e699",
+      "unicode_decimal": 59033
+    },
+    {
+      "icon_id": "8860995",
+      "name": "公告",
+      "font_class": "gonggao",
+      "unicode": "e706",
+      "unicode_decimal": 59142
+    },
+    {
+      "icon_id": "11122463",
+      "name": "简介",
+      "font_class": "jianjie",
+      "unicode": "e95e",
+      "unicode_decimal": 59742
+    },
+    {
+      "icon_id": "11407404",
+      "name": "考试",
+      "font_class": "kaoshi",
+      "unicode": "e69d",
+      "unicode_decimal": 59037
+    },
+    {
+      "icon_id": "20092765",
+      "name": "课程目录规划",
+      "font_class": "kechengmuluguihua",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    },
+    {
+      "icon_id": "7123051",
+      "name": "收藏",
+      "font_class": "shoucang",
+      "unicode": "e6b1",
+      "unicode_decimal": 59057
+    },
+    {
+      "icon_id": "22046751",
+      "name": "预览",
+      "font_class": "preview",
+      "unicode": "e6a5",
+      "unicode_decimal": 59045
+    },
+    {
+      "icon_id": "2078615",
+      "name": "excel",
+      "font_class": "ex",
+      "unicode": "e65c",
+      "unicode_decimal": 58972
+    },
+    {
+      "icon_id": "17433111",
+      "name": "ppt",
+      "font_class": "ppt",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "18062307",
+      "name": "word",
+      "font_class": "word",
+      "unicode": "e6d5",
+      "unicode_decimal": 59093
+    },
+    {
+      "icon_id": "19678182",
+      "name": "视频",
+      "font_class": "shipin",
+      "unicode": "e772",
+      "unicode_decimal": 59250
+    },
+    {
+      "icon_id": "2923332",
+      "name": "下载",
+      "font_class": "xiazai",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "10755030",
+      "name": "上传",
+      "font_class": "shangchuan",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "20840285",
+      "name": "编辑",
+      "font_class": "bianzu9",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "12160245",
+      "name": "课程",
+      "font_class": "kecheng",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "12819023",
+      "name": "新增",
+      "font_class": "zengjia",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "16160051",
+      "name": "删 除",
+      "font_class": "shanchu",
+      "unicode": "ebbf",
+      "unicode_decimal": 60351
+    },
+    {
+      "icon_id": "17099011",
+      "name": "学生",
+      "font_class": "xuesheng",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    }
+  ]
+}
